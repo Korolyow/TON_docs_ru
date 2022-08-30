@@ -16,7 +16,7 @@ _Важно! Работа была переведена не нами. Доба�
 - **Telegram Open Network Blockchain** ✅ [RU](https://github.com/Korolyow/TON_docs_ru/blob/main/pdf/ton_blockchain_ru.pdf) | [EN](https://ton-blockchain.github.io/docs/tblkch.pdf)<br/>
 Целью данной работы является предоставление подробного описания блокчейна Telegram Open Network (TON).
  
-- **Telegram Open Network Virtual Machine** ⏳ (В процессе перевода на RU) / [EN](https://ton-blockchain.github.io/docs/tvm.pdf)<br/>
+- **Telegram Open Network Virtual Machine**  ✅ [RU](https://github.com/Korolyow/TON_docs_ru/blob/main/pdf/tvm_ru.pdf) / [EN](https://ton-blockchain.github.io/docs/tvm.pdf)<br/>
 Целью данной работы является предоставить описание виртуальной машины Telegram Open Network, используемой для выполнения смарт-контрактов в блокчейне TON.
  
 - **Fift: A Brief Introduction** ⏳ (В процессе перевода на RU) | [EN](https://ton-blockchain.github.io/docs/fiftbase.pdf)<br/>
