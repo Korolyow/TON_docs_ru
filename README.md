@@ -19,7 +19,7 @@ _Важно! Работа была переведена не нами. Доба�
 - **Telegram Open Network Virtual Machine**  ✅ [RU](https://github.com/Korolyow/TON_docs_ru/blob/main/pdf/tvm_ru.pdf) / [EN](https://ton-blockchain.github.io/docs/tvm.pdf)<br/>
 Целью данной работы является предоставить описание виртуальной машины Telegram Open Network, используемой для выполнения смарт-контрактов в блокчейне TON.
  
-- **Fift: A Brief Introduction** ⏳ (В процессе перевода на RU) | [EN](https://ton-blockchain.github.io/docs/fiftbase.pdf)<br/>
+- **Fift: A Brief Introduction** ✅ [RU](https://github.com/Korolyow/TON_docs_ru/blob/main/pdf/fiftbase_ru.pdf) | [EN](https://ton-blockchain.github.io/docs/fiftbase.pdf)<br/>
 Целью данной работы является дать краткое описание Fift, нового языка программирования, специально разработанного для создания и управления смарт-контрактами блокчейна TON, а также его функций, используемых для взаимодействия с виртуальной машиной TON и блокчейн TON.
  
 - **Catchain Consensus: An Outline** ✅ [RU](https://github.com/Korolyow/TON_docs_ru/blob/main/pdf/catchain_ru.pdf) | [EN](https://ton-blockchain.github.io/docs/catchain.pdf)<br/>
